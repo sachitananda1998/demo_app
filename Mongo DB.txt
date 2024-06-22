@@ -1,7 +1,0 @@
-Username:- sachitananda98
-Mongo DB:-1234
-
-uri = "mongodb+srv://sachitananda98:<password>@cluster0.l5k86c1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-
-Compass:-
-mongodb+srv://sachitananda98:<password>@cluster0.l5k86c1.mongodb.net/
